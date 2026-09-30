@@ -72,6 +72,4 @@ Feature importance
 
 
 
-The classification task predicts the diagnosis category contained in the dataset, such as:
 
-Benign
